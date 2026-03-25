@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pengju Lu
 
-### A passionate developer from around the world
+### I'm currently a second-year PhD student at the School of  Frontier and Interdisciplinary Sciences, University of Chinese Academy  of Sciences
 
 - 🌱 I'm currently learning **Sparse Attention, RL infra**
 
