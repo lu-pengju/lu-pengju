@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pengju Lu
 
-### I'm currently a second-year PhD student at the School of  Frontier and Interdisciplinary Sciences, University of Chinese Academy  of Sciences
+### A second-year PhD student at the School of  Frontier and Interdisciplinary Sciences, University of Chinese Academy  of Sciences
 
 - 🌱 I'm currently learning **Sparse Attention, RL infra**
 
